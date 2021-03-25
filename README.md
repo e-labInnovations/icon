@@ -2,20 +2,20 @@
 
 ## Small PNG
 
-![alt](./icon-sm.png)
+![icon small](./icon-sm.png)
 
 ## Medium PNG
 
-![alt](./icon-md.png)
+![icon medium](./icon-md.png)
 
 ## Large PNG
 
-![alt](./icon-lg.png)
+![icon large](./icon-lg.png)
 
 ## Full Transparent PNG
 
-![alt](./icon-full-transparent.png)
+![icon full transparent](./icon-full-transparent.png)
 
 ## SVG
 
-![alt](./logo.svg)
+![icon svg](./icon.svg)
