@@ -1,17 +1,17 @@
-# Icons
+# Logos
 
 ## Small PNG
 
-![icon small](./icon-sm.png)
+![icon small](./logo-sm.png)
 
 ## Medium PNG
 
-![icon medium](./icon-md.png)
+![icon medium](./logo-md.png)
 
 ## Full Transparent PNG
 
-![icon full transparent](./icon-full-transparent.png)
+![icon full transparent](./logo-full-transparent.png)
 
 ## SVG
 
-![icon svg](./icon.svg)
+![icon svg](./logo.svg)
